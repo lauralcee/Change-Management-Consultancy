@@ -1,1 +1,3 @@
-# Change-Management-Consultancy
+# Change Management Consultancy
+A [change management consultancy](https://tratechconsulting.co.uk/) is a specialized expert within the field of management. It's not an entry-level job, nor a role that people with unrelated professional experience can quickly transition into. It takes time to build the experience you need to help a business through a major transition.
+Change Management Consultants apply a structured change management approach and methodology for the people impacts of change due to process development/transformation and/or technology implementation; diagnose, design, implement, and assess change management strategies and plans in support of overall OrganizationaL.
